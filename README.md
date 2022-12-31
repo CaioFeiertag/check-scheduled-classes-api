@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p>TypeORM API to check if user has all classes scheduled</p>
+    <p>TypeORM API for checking if user has all classes scheduled</p>
 </h1>
 
 # Table of Contents
